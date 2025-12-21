@@ -1,0 +1,33 @@
+{
+    "google_sheets": {
+        "sheet_id": "15dwz37VUcAgacX2MP391TAPBMyw_HsW9RkAZkGu94mg",
+        "worksheet_name": "Sheet1",
+        "service_account_file": "service_account.json"
+    },
+    "broker_api": {
+        "type": "shoonya",
+        "default_quantity": 75
+    },
+    "shoonya": {
+        "user": "FA367053",
+        "pwd": "Shreya@0305",
+        "factor2": "57MVEP4VRYWF3554S275B3POCA426373",
+        "vc": "FA367053_U",
+        "app_key": "bbd83a033ef48e58107d9d3453a89bb2",
+        "imei": "abc1234"
+    },
+    "email": {
+        "enabled": true,
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "from_email": "shreyathakurindia@gmail.com",
+        "app_password": "gzcf vvwy efsp wtmm",
+        "to_emails": [
+            "shreyathakurindia@gmail.com"
+        ]
+    },
+    "logging": {
+        "log_file": "order_execution.log",
+        "log_level": "INFO"
+    }
+}
